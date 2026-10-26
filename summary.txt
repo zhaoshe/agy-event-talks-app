@@ -1,0 +1,26 @@
+EXECUTIVE SUMMARY: WORLD NEWS DIGEST (OCTOBER 26, 2026)
+=========================================================
+Source: news.txt
+
+OVERVIEW
+--------
+Today's global reporting centers on contentious national elections and transitions across Latin America and Europe, escalating infrastructure vulnerabilities in Eastern Europe and Sudan, ongoing diplomatic and maritime standoffs in the Middle East, and conservation milestones in the Amazon.
+
+KEY THEMES & HIGHLIGHTS
+-----------------------
+1. Global Elections & Democratic Stability:
+   - Brazil: President Lula da Silva won reelection in a tight runoff; tensions linger due to challenger Flavio Bolsonaro's refusal to concede.
+   - Venezuela: Exiled opposition leader María Corina Machado returned home to enthusiastic crowds, challenging the political status quo.
+   - Serbia: President Vucic faced notable electoral setbacks driven by widespread grassroots and student mobilization.
+   - Israel: High-stakes leadership campaigns near decision points with heightened scrutiny on defense and governance.
+
+2. Conflict, Infrastructure Attacks & Security:
+   - Ukraine: Severe grid and power infrastructure strikes continue, keeping Western air defense resupply (Patriot systems) as the paramount priority.
+   - Middle East: Indirect US-Iran talks proceed against a backdrop of IAEA monitoring concerns and persistent maritime threats near the Strait of Hormuz.
+
+3. Severe Humanitarian Crises:
+   - Sudan: Targeted drone strikes on power grids by RSF forces have left eastern regions in major blackouts, worsening humanitarian relief efforts.
+   - Global Relief: On the UN's 81st anniversary, international agencies warned of worsening famine and displacement crises across Africa that require urgent intervention.
+
+4. Climate & Conservation:
+   - Deforestation in the Amazon basin recorded a measurable decline through late 2026, presenting a positive development amid complex worldwide energy transition challenges.
